@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/medical_ai
+    username: postgres
+    password: password
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+gemini:
+  api-key: ${GEMINI_API_KEY}

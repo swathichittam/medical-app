@@ -1,2 +1,2 @@
-# medical-app
-medica app
+# medical-ai-app
+medical app
